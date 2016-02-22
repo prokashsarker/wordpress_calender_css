@@ -1,0 +1,10 @@
+#wp-calendar {width: 100%; }
+#wp-calendar caption {  background: #ccc none repeat scroll 0 0;color: #777;font-size: 18px;font-weight: bold;margin-bottom: 15px;margin-top: 10px;text-align: center; }
+#wp-calendar thead { font-size: 10px; }
+#wp-calendar thead th { color: #777;font-size: 12px;font-weight: bold;text-align: center;padding-bottom:10px;}
+#wp-calendar tbody { color: #aaa; }
+#wp-calendar tbody td { background: #f5f5f5; border: 1px solid #fff; text-align: center; padding:8px;}
+#wp-calendar tbody td:hover { background: #fff; }
+#wp-calendar tbody .pad { background: none; }
+#wp-calendar tfoot #next { font-size: 10px; text-transform: uppercase; text-align: right; }
+#wp-calendar tfoot #prev { font-size: 10px; text-transform: uppercase; padding-top: 10px; }
